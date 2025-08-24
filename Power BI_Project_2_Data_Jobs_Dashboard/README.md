@@ -50,7 +50,7 @@ Buttons & Bookmarks: Built seamless navigation between different report views fo
 ## Data Jobs Dashboard v2.0 Single Page Focus
 
 
-![Dashboard Project 2 v2.0](/images/Data Jobs Dashboard 2.0.png)
+![Dashboard Project 2 v2.0](https://github.com/alhakimdata/Power-BI_Data_Analytics_Project/blob/main/images/Data%20Jobs%20Dashboard%202.0.png?raw=true)
 
 
 ---
